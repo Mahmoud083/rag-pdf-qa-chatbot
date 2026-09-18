@@ -108,3 +108,7 @@ This application was developed as part of the IBM Generative AI Engineering cour
 ## License
 
 This project is licensed under the MIT License.
+
+## Demo
+
+![RAG PDF QA Chatbot Demo](screenshots/rag-chatbot-demo.png)
